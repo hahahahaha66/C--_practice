@@ -2,6 +2,7 @@
 //using namespace std;
 //定义是赋予运算符另一种含义
 //重载函数本质是一种编译器调用的函数调用
+//不能改变运算符的优先级
 class Maker{
     public:
     Maker(){
